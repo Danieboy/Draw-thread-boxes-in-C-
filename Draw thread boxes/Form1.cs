@@ -76,11 +76,5 @@ namespace Draw_thread_boxes
 
             MessageBox.Show("Completed Drawing 25 Green Boxes.");
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
     }
 }
